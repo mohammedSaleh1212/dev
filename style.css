@@ -1,0 +1,17 @@
+/* [class*="col"] {
+    background-color:blue;
+    color: white;
+    border: solid 2px gray;
+    padding: 1rem;
+
+} */
+.primary-header .header-container {
+    background-image: url(images/bg-header-desktop.png);
+    background-repeat: no-repeat;
+}
+.primary-footer {
+    background-color: #eee;
+}
+p {
+    color: rgb(179, 177, 177);
+}
